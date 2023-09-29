@@ -1,0 +1,24 @@
+body {
+   
+}
+.color{
+    background-image: url("/images/barbiesparklenav.jpg");
+    padding: 0px;
+    background-size: cover;
+    filter:brightness(1);
+    }
+    .styleofnavbarwords{
+     color: white;
+     font-family: 'Updock', cursive;
+     font-weight: bold;
+     font-size: 200%;
+    }
+    .navbar-brand {
+        font-size:50px;
+        margin-right: 5%;
+    }
+    .bgpicture{
+        padding: 0;
+        height: 150px;
+        width: 150px;
+    }
