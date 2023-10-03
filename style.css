@@ -1,8 +1,13 @@
 body {
-   
+background-image: url("/images/barbiebackground.jpeg");
+background-size:cover;
+background-repeat: no-repeat;
+width: 100vw;
+height: 100vh;
+background-position: center center;
 }
 .color{
-    background-image: url("/images/barbiesparklenav.jpg");
+    background-color: #f400a1;
     padding: 0px;
     background-size: cover;
     filter:brightness(1);
@@ -12,7 +17,20 @@ body {
      font-family: 'Updock', cursive;
      font-weight: bold;
      font-size: 200%;
+     transition:0.5s;
+
     }
+    .navbar-brand{
+        margin-left: 2.5%;
+    }
+
+    .styleofnavbarwords:hover{
+       color:#ffb3d9;
+       transform: scale(1.2,1.2);
+       transition: 0.5s;
+       width: fit-content;
+       }
+
     .navbar-brand {
         font-size:50px;
         margin-right: 5%;
@@ -22,3 +40,4 @@ body {
         height: 150px;
         width: 150px;
     }
+   
