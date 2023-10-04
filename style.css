@@ -18,7 +18,7 @@ background-position: center center;
      font-weight: bold;
      font-size: 200%;
      transition:0.5s;
-
+margin-left: 2%;
     }
     .navbar-brand{
         margin-left: 2.5%;
@@ -40,4 +40,16 @@ background-position: center center;
         height: 150px;
         width: 150px;
     }
-   
+   .maintext{
+    color: white;
+    font-family: 'Yeseva One', cursive;
+    font-size: 75px;
+    margin-top: 5%;
+    margin-left: -20%;
+   }
+   .barbietext {
+    color:#f400a1;
+    font-family: 'Updock', cursive;
+    font-size: 175px;
+    padding: 0;
+   }
