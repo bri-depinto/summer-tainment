@@ -31,6 +31,8 @@ margin-left: 2%;
        width: fit-content;
        }
 
+
+
     .navbar-brand {
         font-size:50px;
         margin-right: 5%;
@@ -45,7 +47,7 @@ margin-left: 2%;
     font-family: 'Yeseva One', cursive;
     font-size: 75px;
     margin-top: 5%;
-    margin-left: -20%;
+    position: left;
    }
    .barbietext {
     color:#f400a1;
@@ -53,3 +55,47 @@ margin-left: 2%;
     font-size: 175px;
     padding: 0;
    }
+
+
+
+   .cardz{
+    margin-top: 7%;
+    text-align: center;
+    }
+    .yesbutton{
+     background-color: #f400a1 ;
+     font-family: 'Yeseva One', cursive;
+      font-weight: 800;
+    }
+    .yesbutton:hover{
+      width: fit-content;
+      color: black;
+      transition: 0.5s ;
+        background-color:#ffb3d9;
+    }
+    .card-title{
+        font-family: 'Updock', cursive;
+      font-weight: 800;
+      color: black;
+      font-size: 200%;
+    }
+    .topwords{
+      text-align: center;
+      margin-top: 2%;
+      font-family: 'Yeseva One', cursive;
+      color: white;
+      margin-bottom: 3%;
+    }
+    .topwordstwo{
+    font-size: 350%;
+    }
+    .pictureforcard{
+      margin-top: 10px;
+    height: 204px;margin-right: 20px ;
+    }
+    .card-text{
+      font-size: 75%;
+    }
+    .card{
+      margin-bottom: 10%;
+    }
