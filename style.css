@@ -33,6 +33,7 @@ margin-left: 2%;
 
 
 
+
     .navbar-brand {
         font-size:50px;
         margin-right: 5%;
@@ -122,4 +123,12 @@ margin-left: 2%;
       height: 300px;
       overflow: scroll;
       margin-top: 10px;
+    }
+    .footerpttwo{
+      padding: 60px;
+      background-color:#f400a1;
+      color: #ffb3d9;
+      width: 100%;
+      font-size: 8px;
+      bottom: 0px;
     }
