@@ -1,5 +1,5 @@
 body {
-background-image: url("/images/barbiebackground.jpeg");
+background-image: url("images\barbiebackground.jpeg");
 background-size:cover;
 background-repeat: no-repeat;
 width: 100vw;
